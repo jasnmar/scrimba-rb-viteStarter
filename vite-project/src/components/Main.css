@@ -13,3 +13,8 @@
 ul {
     line-height: 2.5em;
 }
+
+li::marker {
+    color: #61DAFB;
+    font-size: 1.4rem;
+}
