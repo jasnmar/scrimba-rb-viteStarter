@@ -18,3 +18,9 @@ li::marker {
     color: #61DAFB;
     font-size: 1.4rem;
 }
+
+.large-react-icon {
+    position: absolute;
+    right:0;
+    top:50%
+}

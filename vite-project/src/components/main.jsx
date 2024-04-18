@@ -1,9 +1,11 @@
 //import React from 'react'
 import "./Main.css"
+import reactIconLarge from "../assets/react-icon-large.png"
 
 function Main() {
     return (
         <main className="main">
+            <img className="large-react-icon" src={reactIconLarge}></img>
             <h1 className="heading-text">Fun facts about React</h1>
             <ul>
                 <li>Was first released in 2013</li>
