@@ -1,0 +1,30 @@
+.logo-image {
+    width: 24px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    background-color: #21222A;
+    justify-content: space-between;
+    height: 10vh;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    padding-left: 1.5em;
+}
+
+
+.title {
+    color: #61DAFB;
+    font-size: 1.4rem;
+    font-weight: bold;
+    padding-left: .2em;
+}
+
+.extra-title {
+    color: #DEEBF8;
+    padding-right: 2em;
+}
