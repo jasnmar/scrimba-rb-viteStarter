@@ -4,6 +4,9 @@
     padding-left: 1.5em;
     padding-top:30px;
     height: 90vh;
+    background-image: url("../assets/react-icon-large.png");
+    background-repeat: no-repeat;
+    background-position: right 75%;
 }
 
 .heading-text {
